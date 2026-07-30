@@ -6,7 +6,7 @@
 .env.*.local
 *.pem
 *.key
-
+.vscode
 # ==========================================
 # Operating System Files
 # ==========================================
@@ -80,3 +80,4 @@ env/
 *.log
 *.sqlite
 *.sqlite3
+data/
