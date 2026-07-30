@@ -107,7 +107,7 @@ To minimize the environmental impact of your AI workflows:
 2. **Early Stopping:** Avoid unnecessary training epochs once model convergence plateaus.
 3. **Region Choice:** Train models in regions powered by renewable energy sources (low carbon intensity grid).
 4. **Data Efficiency:** Leverage transfer learning and pre-trained weights instead of training from scratch.
-
+5. **Search Space Efficiency:** Leverage appropriate search space and hyper-architectures instead of starting from scratch.
 ---
 
 ## 📜 License
