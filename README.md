@@ -1,12 +1,18 @@
-# 🌿 Frugal & Green AI: Tracking Carbon Emissions with CodeCarbon
+<div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
-[![CodeCarbon](https://img.shields.io/badge/Emissions-CodeCarbon-green.svg)](https://codecarbon.io/)
+<h1 style="margin-bottom: 0;">🌿 Frugal & Green AI</h1>
+<h3><em>Tracking and Optimizing Carbon Emissions with CodeCarbon</em></h3>
 
-This repository is dedicated to **Green AI** (or **Frugal AI**) principles—building efficient, environmentally conscious machine learning models while accurately monitoring and optimizing their carbon footprint using **CodeCarbon**.
+<p>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square&logo=opensourceinitiative" alt="License: MIT"></a>
+  <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.8%2B-blue.svg?style=flat-square&logo=python&logoColor=white" alt="Python 3.8+"></a>
+  <a href="https://codecarbon.io/"><img src="https://img.shields.io/badge/Emissions-CodeCarbon-green.svg?style=flat-square&logo=leaflet&logoColor=white" alt="CodeCarbon"></a>
+  <a href="https://github.com/phamdps/greenautoai/graphs/commit-activity"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=flat-square" alt="Maintained"></a>
+</p>
 
----
+<p><em>Building efficient, environmentally conscious machine learning models while accurately monitoring their carbon footprint.</em></p>
+
+</div>
 
 ## 💡 What is Green & Frugal AI?
 
@@ -120,6 +126,3 @@ This project is licensed under the MIT License - see the [LICENSE](https://www.g
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=https://github.com/your-username/green-ai-codecarbon/issues).
 
-```
-
-```
