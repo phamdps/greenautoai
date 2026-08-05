@@ -31,6 +31,16 @@ Modern Artificial Intelligence models (especially Large Language Models and Deep
 
 ---
 
+## 📊 Project Carbon Footprint
+
+Here is the visual tracking report generated for our Qwen2-VL execution pipeline:
+
+<p align="center">
+  <img src="images/project_carbon_footprint.png" alt="Carbon Footprint Summary" width="700px">
+</p>
+
+---
+
 ## 🚀 Quickstart
 
 ### 1. Prerequisites & Installation

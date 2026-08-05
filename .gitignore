@@ -80,4 +80,8 @@ env/
 *.log
 *.sqlite
 *.sqlite3
+
+# Extra files
 data/
+results/
+green-ai/
